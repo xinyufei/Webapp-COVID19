@@ -1,0 +1,14 @@
+<!doctype html>
+<title>Results of your input</title>
+<h2>The model with your input is solved successfully!</h3>
+<h2>To be updated -- Guidence for reading the results:</h3>
+<h3>Your results are:</h3>
+<body>
+{% for table in tables %}
+            {{titles[loop.index]}}
+            {{ table|safe }}
+{% endfor %}
+</body>
+<ul>
+<li><a href="./download/download-file.csv">Download result here!</a></li>
+</ul>
