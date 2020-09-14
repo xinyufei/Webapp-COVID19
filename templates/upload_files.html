@@ -1,0 +1,46 @@
+<!doctype html>
+<title>COVID-19 Reopening</title>
+<h2>An Optimization Model for COVID-19 Reopening Problem</h3>
+<h2>To be updated -- Description of the code, format of input and output."</h3>
+<h2>Select datainput to upload (.csv file)</h3>
+<!--If you want to upload multiple files then you need to hold CTRL key and select files.-->
+<p>
+	{% with messages = get_flashed_messages() %}
+	  {% if messages %}
+		<ul class=flashes>
+		{% for message in messages %}
+		  <li>{{ message }}</li>
+		{% endfor %}
+		</ul>
+	  {% endif %}
+	{% endwith %}
+</p>
+<form method="post" action="/" enctype="multipart/form-data">
+    Please upload graph of trade relationship here.
+    <dl>
+		<p>
+			<input type="file" name="file1" autocomplete="off" required>
+		</p>
+    </dl>
+    Please upload production data here.
+    <dl>
+		<p>
+			<input type="file" name="file2" autocomplete="off" required>
+		</p>
+    </dl>
+    Please upload infection data here.
+    <dl>
+		<p>
+			<input type="file" name="file3" autocomplete="off" required>
+		</p>
+    </dl>
+    Please upload parameter data here.
+    <dl>
+		<p>
+			<input type="file" name="file4" autocomplete="off" required>
+		</p>
+    </dl>
+    <p>
+		<input type="submit" value="Submit">
+    </p>
+</form>

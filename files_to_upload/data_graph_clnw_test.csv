@@ -1,0 +1,100 @@
+state,region,industry,business,state_trade,trade_region,Profit1,Profit2,Profit3,Profit4,Profit5,Profit6
+Washington,0,Real estate,0,Washington,0,0.00026615,0.00026615,0.00026615,0.00026615,0.00026615,0.00026615
+Washington,0,Rental and leasing services and lessors of nonfinancial intangible assets,1,Washington,0,1.44E-05,1.44E-05,1.44E-05,1.44E-05,1.44E-05,1.44E-05
+Washington,0,Legal services,2,Washington,0,2.16E-05,2.16E-05,2.16E-05,2.16E-05,2.16E-05,2.16E-05
+Washington,0,Computer systems design and related services,3,Washington,0,3.42E-05,3.42E-05,3.42E-05,3.42E-05,3.42E-05,3.42E-05
+Washington,0,Management of companies and enterprises,4,Washington,0,2.59E-05,2.59E-05,2.59E-05,2.59E-05,2.59E-05,2.59E-05
+Washington,0,Administrative and support services,5,Washington,0,4.42E-05,4.42E-05,4.42E-05,4.42E-05,4.42E-05,4.42E-05
+Washington,0,Waste management and remediation services,6,Washington,0,1.08E-05,1.08E-05,1.08E-05,1.08E-05,1.08E-05,1.08E-05
+Washington,0,"Performing arts, spectator sports, museums, and related activities",7,Washington,0,8.38E-06,8.38E-06,8.38E-06,8.38E-06,8.38E-06,8.38E-06
+Washington,0,"Amusement, gambling, and recreation industries",8,Washington,0,7.90E-06,7.90E-06,7.90E-06,7.90E-06,7.90E-06,7.90E-06
+Washington,0,Accommodation,9,Washington,0,1.74E-05,1.74E-05,1.74E-05,1.74E-05,1.74E-05,1.74E-05
+Washington,0,Food services and drinking places,10,Washington,0,4.37E-05,4.37E-05,4.37E-05,4.37E-05,4.37E-05,4.37E-05
+Washington,0,Alcoholic beverages,14,California,2,1.78E-06,1.78E-06,1.78E-06,1.78E-06,1.78E-06,1.78E-06
+Washington,0,Electronics,12,California,2,3.27E-05,3.27E-05,3.27E-05,3.27E-05,3.27E-05,3.27E-05
+Washington,0,Motorized vehicles,11,California,2,1.69E-05,1.69E-05,1.69E-05,1.69E-05,1.69E-05,1.69E-05
+Washington,0,Alcoholic beverages,14,Nevada,3,0.001253,0.001253,0.001253,0.001253,0.001253,0.001253
+Washington,0,Electronics,12,Nevada,3,3.88E-05,3.88E-05,3.88E-05,3.88E-05,3.88E-05,3.88E-05
+Washington,0,Motorized vehicles,11,Nevada,3,2.22E-05,2.22E-05,2.22E-05,2.22E-05,2.22E-05,2.22E-05
+Washington,0,Alcoholic beverages,14,Oregon,1,3.36E-06,3.36E-06,3.36E-06,3.36E-06,3.36E-06,3.36E-06
+Washington,0,Gasoline,13,Oregon,1,5.62E-07,5.62E-07,5.62E-07,5.62E-07,5.62E-07,5.62E-07
+Washington,0,Electronics,12,Oregon,1,4.15E-05,4.15E-05,4.15E-05,4.15E-05,4.15E-05,4.15E-05
+Washington,0,Motorized vehicles,11,Oregon,1,5.79E-06,5.79E-06,5.79E-06,5.79E-06,5.79E-06,5.79E-06
+Washington,0,Alcoholic beverages,14,Washington,0,1.55E-06,1.55E-06,1.55E-06,1.55E-06,1.55E-06,1.55E-06
+Washington,0,Gasoline,13,Washington,0,4.82E-07,4.82E-07,4.82E-07,4.82E-07,4.82E-07,4.82E-07
+Washington,0,Electronics,12,Washington,0,1.11E-05,1.11E-05,1.11E-05,1.11E-05,1.11E-05,1.11E-05
+Washington,0,Motorized vehicles,11,Washington,0,6.23E-06,6.23E-06,6.23E-06,6.23E-06,6.23E-06,6.23E-06
+Oregon,1,Real estate,0,Oregon,1,0.00012913,0.00012913,0.00012913,0.00012913,0.00012913,0.00012913
+Oregon,1,Rental and leasing services and lessors of nonfinancial intangible assets,1,Oregon,1,1.18E-05,1.18E-05,1.18E-05,1.18E-05,1.18E-05,1.18E-05
+Oregon,1,Legal services,2,Oregon,1,7.39E-06,7.39E-06,7.39E-06,7.39E-06,7.39E-06,7.39E-06
+Oregon,1,Computer systems design and related services,3,Oregon,1,1.06E-05,1.06E-05,1.06E-05,1.06E-05,1.06E-05,1.06E-05
+Oregon,1,Management of companies and enterprises,4,Oregon,1,2.93E-05,2.93E-05,2.93E-05,2.93E-05,2.93E-05,2.93E-05
+Oregon,1,Administrative and support services,5,Oregon,1,2.17E-05,2.17E-05,2.17E-05,2.17E-05,2.17E-05,2.17E-05
+Oregon,1,Waste management and remediation services,6,Oregon,1,2.54E-06,2.54E-06,2.54E-06,2.54E-06,2.54E-06,2.54E-06
+Oregon,1,"Performing arts, spectator sports, museums, and related activities",7,Oregon,1,4.50E-06,4.50E-06,4.50E-06,4.50E-06,4.50E-06,4.50E-06
+Oregon,1,"Amusement, gambling, and recreation industries",8,Oregon,1,3.46E-06,3.46E-06,3.46E-06,3.46E-06,3.46E-06,3.46E-06
+Oregon,1,Accommodation,9,Oregon,1,7.62E-06,7.62E-06,7.62E-06,7.62E-06,7.62E-06,7.62E-06
+Oregon,1,Food services and drinking places,10,Oregon,1,2.22E-05,2.22E-05,2.22E-05,2.22E-05,2.22E-05,2.22E-05
+Oregon,1,Alcoholic beverages,14,California,2,3.68E-06,3.68E-06,3.68E-06,3.68E-06,3.68E-06,3.68E-06
+Oregon,1,Gasoline,13,California,2,1.72E-09,1.72E-09,1.72E-09,1.72E-09,1.72E-09,1.72E-09
+Oregon,1,Electronics,12,California,2,4.85E-05,4.85E-05,4.85E-05,4.85E-05,4.85E-05,4.85E-05
+Oregon,1,Motorized vehicles,11,California,2,2.33E-05,2.33E-05,2.33E-05,2.33E-05,2.33E-05,2.33E-05
+Oregon,1,Alcoholic beverages,14,Nevada,3,1.48E-06,1.48E-06,1.48E-06,1.48E-06,1.48E-06,1.48E-06
+Oregon,1,Electronics,12,Nevada,3,1.17E-05,1.17E-05,1.17E-05,1.17E-05,1.17E-05,1.17E-05
+Oregon,1,Motorized vehicles,11,Nevada,3,1.07E-05,1.07E-05,1.07E-05,1.07E-05,1.07E-05,1.07E-05
+Oregon,1,Alcoholic beverages,14,Oregon,1,1.27E-06,1.27E-06,1.27E-06,1.27E-06,1.27E-06,1.27E-06
+Oregon,1,Gasoline,13,Oregon,1,5.80E-07,5.80E-07,5.80E-07,5.80E-07,5.80E-07,5.80E-07
+Oregon,1,Electronics,12,Oregon,1,1.18E-05,1.18E-05,1.18E-05,1.18E-05,1.18E-05,1.18E-05
+Oregon,1,Motorized vehicles,11,Oregon,1,1.18E-05,1.18E-05,1.18E-05,1.18E-05,1.18E-05,1.18E-05
+Oregon,1,Alcoholic beverages,14,Washington,0,1.76E-06,1.76E-06,1.76E-06,1.76E-06,1.76E-06,1.76E-06
+Oregon,1,Gasoline,13,Washington,0,5.11E-07,5.11E-07,5.11E-07,5.11E-07,5.11E-07,5.11E-07
+Oregon,1,Electronics,12,Washington,0,2.69E-05,2.69E-05,2.69E-05,2.69E-05,2.69E-05,2.69E-05
+Oregon,1,Motorized vehicles,11,Washington,0,1.71E-05,1.71E-05,1.71E-05,1.71E-05,1.71E-05,1.71E-05
+California,2,Real estate,0,California,2,0.001730581,0.001730581,0.001730581,0.001730581,0.001730581,0.001730581
+California,2,Rental and leasing services and lessors of nonfinancial intangible assets,1,California,2,0.000111172,0.000111172,0.000111172,0.000111172,0.000111172,0.000111172
+California,2,Legal services,2,California,2,0.000138136,0.000138136,0.000138136,0.000138136,0.000138136,0.000138136
+California,2,Computer systems design and related services,3,California,2,0.000251285,0.000251285,0.000251285,0.000251285,0.000251285,0.000251285
+California,2,Management of companies and enterprises,4,California,2,0.000156579,0.000156579,0.000156579,0.000156579,0.000156579,0.000156579
+California,2,Administrative and support services,5,California,2,0.000294497,0.000294497,0.000294497,0.000294497,0.000294497,0.000294497
+California,2,Waste management and remediation services,6,California,2,2.57E-05,2.57E-05,2.57E-05,2.57E-05,2.57E-05,2.57E-05
+California,2,"Performing arts, spectator sports, museums, and related activities",7,California,2,0.000104267,0.000104267,0.000104267,0.000104267,0.000104267,0.000104267
+California,2,"Amusement, gambling, and recreation industries",8,California,2,0.000044945,0.000044945,0.000044945,0.000044945,0.000044945,0.000044945
+California,2,Accommodation,9,California,2,7.32E-05,7.32E-05,7.32E-05,7.32E-05,7.32E-05,7.32E-05
+California,2,Food services and drinking places,10,California,2,0.000244908,0.000244908,0.000244908,0.000244908,0.000244908,0.000244908
+California,2,Motorized vehicles,11,California,2,1.06E-05,1.06E-05,1.06E-05,1.06E-05,1.06E-05,1.06E-05
+California,2,Electronics,12,California,2,2.21E-05,2.21E-05,2.21E-05,2.21E-05,2.21E-05,2.21E-05
+California,2,Gasoline,13,California,2,5.59E-07,5.59E-07,5.59E-07,5.59E-07,5.59E-07,5.59E-07
+California,2,Alcoholic beverages,14,California,2,2.50E-06,2.50E-06,2.50E-06,2.50E-06,2.50E-06,2.50E-06
+California,2,Electronics,12,Oregon,1,5.07E-05,5.07E-05,5.07E-05,5.07E-05,5.07E-05,5.07E-05
+California,2,Motorized vehicles,11,Washington,0,3.59E-05,3.59E-05,3.59E-05,3.59E-05,3.59E-05,3.59E-05
+California,2,Electronics,12,Washington,0,5.72E-05,5.72E-05,5.72E-05,5.72E-05,5.72E-05,5.72E-05
+California,2,Motorized vehicles,11,Nevada,3,8.96E-06,8.96E-06,8.96E-06,8.96E-06,8.96E-06,8.96E-06
+California,2,Motorized vehicles,11,Oregon,1,1.42E-05,1.42E-05,1.42E-05,1.42E-05,1.42E-05,1.42E-05
+California,2,Electronics,12,Nevada,3,2.89E-05,2.89E-05,2.89E-05,2.89E-05,2.89E-05,2.89E-05
+California,2,Alcoholic beverages,14,Oregon,1,1.43E-06,1.43E-06,1.43E-06,1.43E-06,1.43E-06,1.43E-06
+California,2,Alcoholic beverages,14,Washington,0,2.28E-06,2.28E-06,2.28E-06,2.28E-06,2.28E-06,2.28E-06
+California,2,Alcoholic beverages,14,Nevada,3,1.81E-06,1.81E-06,1.81E-06,1.81E-06,1.81E-06,1.81E-06
+California,2,Gasoline,13,Nevada,3,5.88E-07,5.88E-07,5.88E-07,5.88E-07,5.88E-07,5.88E-07
+California,2,Gasoline,13,Oregon,1,3.92E-08,3.92E-08,3.92E-08,3.92E-08,3.92E-08,3.92E-08
+Nevada,3,Real estate,0,Nevada,3,0.000080155,0.000080155,0.000080155,0.000080155,0.000080155,0.000080155
+Nevada,3,Rental and leasing services and lessors of nonfinancial intangible assets,1,Nevada,3,1.24E-05,1.24E-05,1.24E-05,1.24E-05,1.24E-05,1.24E-05
+Nevada,3,Legal services,2,Nevada,3,6.31E-06,6.31E-06,6.31E-06,6.31E-06,6.31E-06,6.31E-06
+Nevada,3,Computer systems design and related services,3,Nevada,3,3.80E-06,3.80E-06,3.80E-06,3.80E-06,3.80E-06,3.80E-06
+Nevada,3,Management of companies and enterprises,4,Nevada,3,0.000016175,0.000016175,0.000016175,0.000016175,0.000016175,0.000016175
+Nevada,3,Administrative and support services,5,Nevada,3,1.87E-05,1.87E-05,1.87E-05,1.87E-05,1.87E-05,1.87E-05
+Nevada,3,Waste management and remediation services,6,Nevada,3,1.61E-06,1.61E-06,1.61E-06,1.61E-06,1.61E-06,1.61E-06
+Nevada,3,"Performing arts, spectator sports, museums, and related activities",7,Nevada,3,1.03E-05,1.03E-05,1.03E-05,1.03E-05,1.03E-05,1.03E-05
+Nevada,3,"Amusement, gambling, and recreation industries",8,Nevada,3,8.66E-06,8.66E-06,8.66E-06,8.66E-06,8.66E-06,8.66E-06
+Nevada,3,Accommodation,9,Nevada,3,6.22E-05,6.22E-05,6.22E-05,6.22E-05,6.22E-05,6.22E-05
+Nevada,3,Food services and drinking places,10,Nevada,3,2.19E-05,2.19E-05,2.19E-05,2.19E-05,2.19E-05,2.19E-05
+Nevada,3,Gasoline,13,California,2,5.66E-07,5.66E-07,5.66E-07,5.66E-07,5.66E-07,5.66E-07
+Nevada,3,Electronics,12,California,2,1.16E-05,1.16E-05,1.16E-05,1.16E-05,1.16E-05,1.16E-05
+Nevada,3,Motorized vehicles,11,California,2,1.20E-05,1.20E-05,1.20E-05,1.20E-05,1.20E-05,1.20E-05
+Nevada,3,Alcoholic beverages,14,Nevada,3,2.83E-06,2.83E-06,2.83E-06,2.83E-06,2.83E-06,2.83E-06
+Nevada,3,Gasoline,13,Nevada,3,5.68E-07,5.68E-07,5.68E-07,5.68E-07,5.68E-07,5.68E-07
+Nevada,3,Electronics,12,Nevada,3,1.50E-05,1.50E-05,1.50E-05,1.50E-05,1.50E-05,1.50E-05
+Nevada,3,Motorized vehicles,11,Nevada,3,2.23E-06,2.23E-06,2.23E-06,2.23E-06,2.23E-06,2.23E-06
+Nevada,3,Electronics,12,Oregon,1,8.26E-06,8.26E-06,8.26E-06,8.26E-06,8.26E-06,8.26E-06
+Nevada,3,Motorized vehicles,11,Oregon,1,1.92E-05,1.92E-05,1.92E-05,1.92E-05,1.92E-05,1.92E-05
+Nevada,3,Electronics,12,Washington,0,2.63E-05,2.63E-05,2.63E-05,2.63E-05,2.63E-05,2.63E-05
+Nevada,3,Motorized vehicles,11,Washington,0,1.40E-05,1.40E-05,1.40E-05,1.40E-05,1.40E-05,1.40E-05
