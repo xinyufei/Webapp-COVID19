@@ -10,7 +10,6 @@ import os
 def Generate_stochastic_data(pre_prod_file):
     # THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
     # pre_prod_file = os.path.join(THIS_FOLDER, 'data_prod_clnw_test.csv')
-    print(pre_prod_file)
     pre_prod = pd.read_csv(pre_prod_file) #read csv with data related to regions and their businesses
     pre_prod.insert(0,'scenario',0)
     num_scenario = 5
