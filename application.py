@@ -37,7 +37,6 @@ def generateresult(filenames, file_dir):
 	filepath=os.path.join(file_dir, filename)
 	a=pd.read_csv(filepath, header=None)
 	b=2*a """
-	print(filenames)
 	# filedownloadpath=os.path.join(file_dir, 'download-'+filename.split('.')[0]+'.xlsx')
 	print_result(file_dir, filenames)
 	# return(b)
