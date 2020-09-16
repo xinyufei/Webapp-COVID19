@@ -11,7 +11,6 @@ def Read_data(file_dir, filenames):
     relaxpara_file = os.path.join(file_dir, filenames[3])
     data_dict = {}
     # graph = pd.read_csv("data_graph.csv") #read csv with data related to regions, their businesses and possible trade 
-    print(graph_file)
     graph = pd.read_csv(graph_file) #read csv with data related to regions, their businesses and possible trade 
     # prod = pd.read_csv(prod_file) #read csv with data related to regions and their businesses information
     infec = pd.read_csv(infec_file) #read csv with data related to region information 
