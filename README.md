@@ -6,14 +6,14 @@ To run this app, after downloading it, you can run
 
     .. code-block:: bash
 
-    SET FLASK_APP=application.py
-    flask run
+      SET FLASK_APP=application.py
+      flask run
     
 in cmd or 
 
     .. code-block:: bash
 
-    SET FLASK_APP=application.py
-    flask run
+      SET FLASK_APP=application.py
+      flask run
 
 in Bash. 
