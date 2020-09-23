@@ -4,16 +4,12 @@ Based on https://github.com/Huiwen-git/Web-app
 
 To run this app, after downloading it, you can run
 ```
-<p>
-SET FLASK_APP=application.py
-flask run
-</p>
+<p>SET FLASK_APP=application.py
+flask run</p>
 ```  
 in cmd or 
 ```
-<p>
-export FLASK_APP=application.py
-flask run
-</p>
+<p>export FLASK_APP=application.py
+flask run</p>
 ```
 in Bash. 
