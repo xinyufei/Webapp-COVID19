@@ -1,24 +1,16 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep  5 15:01:21 2020
-
-@author: hwjia
-
-web app
-"""
-
 import os
 import urllib.request
 from flask import Flask, flash, request, redirect, render_template, send_file, send_from_directory
 from werkzeug.utils import secure_filename
 import pandas as pd
 from output_printer_final import print_result
+import gurobipy as gb 
 
 
 
 
 app = Flask(__name__)
-UPLOAD_FOLDER = 'uploads\\'
+UPLOAD_FOLDER = 'uploads/'
 basedir = os.path.abspath(os.path.dirname(__file__))
 app.secret_key = "secret key"
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
